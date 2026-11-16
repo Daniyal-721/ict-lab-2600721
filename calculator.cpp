@@ -4,11 +4,15 @@ using namespace std;
 
 int main()
 {
-    int sum = num1 + num2;
-int difference = num1 - num2;
+    int num1 = 10, num2 = 5;
 
-cout << "Addition = " << sum << endl;
-cout << "Subtraction = " << difference << endl;
+    int sum = num1 + num2;
+    int difference = num1 - num2;
+    int multiplication = num1 * num2;
+
+    cout << "Addition = " << sum << endl;
+    cout << "Subtraction = " << difference << endl;
+    cout << "Multiplication = " << multiplication << endl;
 
     return 0;
 }
