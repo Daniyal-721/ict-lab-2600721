@@ -1,5 +1,1 @@
 Git is a version control system.
-GitHub stores projects online.
-A commit saves changes in a repository.
-A branch allows us to work separately.
-Git branches help developers work on new features.
